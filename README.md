@@ -1,5 +1,4 @@
 # hello-word
-Just another repository
 #include <stdio.h>
 #include <stdlib.h>
 
